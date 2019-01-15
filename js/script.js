@@ -22,6 +22,7 @@ function emptySongInfo(){
 
 function addSongInfo(){
     // BELOW write the code to add new items to each of the arrays.
+    var addSongInfo = ["Happier","A$ap Forever","Neon Guts", ""]
 
 
 }

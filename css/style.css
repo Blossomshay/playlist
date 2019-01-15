@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    color:lavender;
+    background-color:gray;
 }
 
 #cart {
@@ -51,8 +53,13 @@ h1 {
 
 #form {
     width: 75%;
-    margin: 0 auto 20px auto;
-    font-size: 18px;
+    margin: 0 auto 10px auto;
+    font-size: 14px;
+    display:flex;
+    justify-content:space-between;
+}
+#form > *{
+    align-self: flex-start;
 }
 
 input {
